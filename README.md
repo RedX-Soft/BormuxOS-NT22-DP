@@ -59,3 +59,4 @@
 - **Advanced Security Features**: Enhanced encryption for files and user accounts.  
 - **Hardware Optimization**: Support for more advanced peripherals.  
 
+![Bormux OS Preview]([https://example.com/path-to-image.png](https://github.com/RedX-Soft/BormuxOS-NT22-DP/blob/main/Preview(764).png))
